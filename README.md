@@ -82,10 +82,12 @@ GENERATE_STATIC_REFLECTION_MEMBER_FUNCTION(foo, std::string, string);
 
 // WILL NOT COMPILE AS IS NOT IN CONSTEXPR CONTEXT
 template<typename T>
-[[nodisacrd]] T func()
+void func()
 {
 if (has_foo_returnType_string_v<T>)
 {
+    std::cout << "I do not compile\n";
+}
 }
 ```
 
@@ -97,9 +99,11 @@ GENERATE_STATIC_REFLECTION_MEMBER_FUNCTION(foo, std::string, string);
 
 // will compile as is in contexpr context
 template<typename T>
-[[nodisacrd]] T func()
+void func()
 {
 if constexpr (has_foo_returnType_string_v<T>)
 {
+    std::cout << "I am a string\n";
+}
 }
 ```
