@@ -1,0 +1,8 @@
+/home/maximosn/reflections/build/CMakeFiles/rebuild_cache.dir
+/home/maximosn/reflections/build/CMakeFiles/edit_cache.dir
+/home/maximosn/reflections/build/src/CMakeFiles/rebuild_cache.dir
+/home/maximosn/reflections/build/src/CMakeFiles/edit_cache.dir
+/home/maximosn/reflections/build/src/CMakeFiles/refl.dir
+/home/maximosn/reflections/build/tests/CMakeFiles/rebuild_cache.dir
+/home/maximosn/reflections/build/tests/CMakeFiles/edit_cache.dir
+/home/maximosn/reflections/build/tests/CMakeFiles/reflectTest.dir

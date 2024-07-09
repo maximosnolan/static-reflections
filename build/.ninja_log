@@ -1,0 +1,15 @@
+# ninja log v5
+0	176	1720484201625869492	src/CMakeFiles/refl.dir/lib_reflect_parser.cpp.o	39f6fa6d0438e643
+0	178	1720484201625869492	tests/CMakeFiles/reflectTest.dir/reflect_class.t.m.cc.o	946688f5d4204ef7
+176	188	1720484201635869489	src/librefl.a	34e5d86f51c67ba7
+188	273	1720484201725869466	tests/reflectTest	dc8d1e9130d01f02
+0	152	1720484228365866398	tests/CMakeFiles/reflectTest.dir/reflect_class.t.m.cc.o	946688f5d4204ef7
+152	223	1720484228435866386	tests/reflectTest	dc8d1e9130d01f02
+0	156	1720484239365865337	tests/CMakeFiles/reflectTest.dir/reflect_class.t.m.cc.o	946688f5d4204ef7
+156	226	1720484239435865328	tests/reflectTest	dc8d1e9130d01f02
+0	179	1720484246195864743	tests/CMakeFiles/reflectTest.dir/reflect_class.t.m.cc.o	946688f5d4204ef7
+179	245	1720484246265864739	tests/reflectTest	dc8d1e9130d01f02
+1	307	1720484388285846305	src/CMakeFiles/refl.dir/lib_reflect_parser.cpp.o	39f6fa6d0438e643
+1	315	1720484388295846307	tests/CMakeFiles/reflectTest.dir/reflect_class.t.m.cc.o	946688f5d4204ef7
+307	328	1720484388305846302	src/librefl.a	34e5d86f51c67ba7
+328	412	1720484388385846295	tests/reflectTest	dc8d1e9130d01f02

@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/home/maximosn/reflections/build",
+  "command": "/usr/bin/c++   -I../src  -g   -std=gnu++2a -o src/CMakeFiles/refl.dir/lib_reflect_parser.cpp.o -c /home/maximosn/reflections/src/lib_reflect_parser.cpp",
+  "file": "/home/maximosn/reflections/src/lib_reflect_parser.cpp"
+},
+
+{
+  "directory": "/home/maximosn/reflections/build",
+  "command": "/usr/bin/c++   -I../src  -g   -std=gnu++2a -o tests/CMakeFiles/reflectTest.dir/reflect_class.t.m.cc.o -c /home/maximosn/reflections/tests/reflect_class.t.m.cc",
+  "file": "/home/maximosn/reflections/tests/reflect_class.t.m.cc"
+}
+]
